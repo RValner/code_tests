@@ -2,7 +2,7 @@
  * This code tests the scope of namespaces.
  * 
  * Lessons learned: dont use "using" directive in .h files or inside
- * namespace declarations, things will get ugly (see line 47)
+ * namespace declarations, things will get ugly (see line 50)
  * 
  * References: https://stackoverflow.com/a/6175850/8068769
  */
